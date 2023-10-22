@@ -1,3 +1,6 @@
+My Personal Portfolio Website
+
+Made with the help of:
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -22,6 +25,9 @@ Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)
+		Real Data (https://www.real-data.com/statistics/the-us-housing-market/)
+		Stanford Online (https://online.stanford.edu/effective-data-visualization-In-the-era-of-COVID-19)
+		Scrape-it (https://scrape-it.cloud/blog/web-scraping-what-it-is-and-how-to-use-it)
 
 	Icons:
 		Font Awesome (fontawesome.io)
